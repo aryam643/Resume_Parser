@@ -1,0 +1,65 @@
+ARYAM 
+COMPUTER SCIENCE ENGINEER
+
+Graduating: B.Tech (CSE) from Jaypee University Of Information Technology, Solan
+
+ABOUT ME 
+Versatile problem-solver with a robust grasp of multiple programming languages. Thrives in high-pressure team settings, with a keen appetite for learning and collaboration. Seeks to join your team, valuing growth through challenges, a strong work ethic, and a positive mindset.
+
+EDUCATION
+  Bachelor of Technology in Computer Science Engineering**  
+  Jaypee University of Information Technology (JUIT), Solan  
+  8.5 CGPA (Till 6th Sem) | 2021-2025
+
+  Senior Secondary Education  
+  Aryan Public School, HPBOSE  
+  93.2% | 2021
+
+  Matriculation 
+  DAV Public School, CBSE  
+  91.3% | 2019
+
+TECHNICAL SKILLS 
+    Programming Languages: C, C++, Python, JavaScript, SQL, CSS, HTML, DBMS, Data Structures and Algorithms (DSA)
+    Libraries / Frameworks:React.js, Node.js, Django, MongoDB, Bootstrap, Tailwind CSS, NumPy, Matplotlib, TensorFlow, PyTorch, Keras, Pandas
+    Tools/Platforms: Git, GitHub, AWS, Linux, Windows, Figma, Adobe Photoshop, Jupyter, Visual Studio Code, Adobe Illustrator
+
+WORK EXPERIENCE
+ Machine Learning Intern  
+  Indian Institute of Information Technology (IIIT), UNA  
+  Dec 2023 - Jan 2024  
+    Demonstrated proficiency in data collection and analysis using IoT technologies, particularly in the context of Himachal Pradesh.
+    Acquired knowledge and practical experience in Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN).
+    Applied theoretical concepts to real-world problems, showcasing adaptability and capability in leveraging deep learning techniques.
+
+    Chairperson  
+  IEEE JUIT-Student Branch, Solan  
+  Aug 2023 - Present  
+    Orchestrated successful events: R&D Expo, Enigma, and workshops on web dev, IoT, drones, and programming.
+    Elevated members’ skills through dynamic sessions and hands-on workshops, fostering a tech-savvy community.
+
+
+PROJECTS 
+Credit Card Fraud Detection
+  June 2024 | GitHub  
+  Technologies: Python, Pandas, Numpy, matplotlib, seaborn
+  Highlights: Data Preparation and Cleaning, Exploratory Data Analysis, Model Development and Evaluation using Logistic Regression, SVM, Decision Tree, Random Forest, and XGBoost.
+
+Fashion Recommendation System using Image Features
+  June 2024 | GitHub  
+  Technologies: Python, Tensorflow, Machine Learning, Deep Learning
+  Highlights: Automated Image Extraction, Fashion Item Recommendation System using CNN.
+
+  Cyberdect  
+  Feb 2023 - May 2023 | GitHub  
+   Technologies: React, streamlit, JavaScript, HTML, CSS
+   Highlights: Developed a system to identify tweets related to various forms of cyberbullying using SVM algorithm.
+
+CERTIFICATIONS & LINKS  
+  GitHub: [github.com/aryamsharma](https://github.com/aryamsharma)
+  LinkedIn: [linkedin.com/in/aryamsharma](https://www.linkedin.com/in/aryamsharma)
+
+
+CONTACT  
+    Phone: +91-6230707124  
+    Email: aryamsharma59@gmail.com | 211392@juitsolan.in
